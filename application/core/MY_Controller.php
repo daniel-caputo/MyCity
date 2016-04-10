@@ -6,7 +6,7 @@
  * @link http://github.com/jamierumbelow/codeigniter-base-controller
  * @copyright Copyright (c) 2012, Jamie Rumbelow <http://jamierumbelow.net>
  */
-class BaseController extends CI_Controller
+class MY_Controller extends CI_Controller
 {
     /* --------------------------------------------------------------
      * VARIABLES

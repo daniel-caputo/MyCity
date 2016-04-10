@@ -1,6 +1,6 @@
 <?php
 
-class Main extends MY_Controller {
+class Profile extends MY_Controller {
 
     public function index()
     {

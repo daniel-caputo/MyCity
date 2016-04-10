@@ -113,7 +113,7 @@ $config['enable_hooks'] = FALSE;
 | https://codeigniter.com/user_guide/general/creating_libraries.html
 |
 */
-$config['subclass_prefix'] = 'Base';
+$config['subclass_prefix'] = 'MY_';
 
 /*
 |--------------------------------------------------------------------------

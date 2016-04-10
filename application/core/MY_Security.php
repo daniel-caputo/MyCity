@@ -1,5 +1,5 @@
 <?php
-class BaseSecurity extends CI_Security {
+class MY_Security extends CI_Security {
 
     public function __construct()
     {

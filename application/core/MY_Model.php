@@ -6,7 +6,7 @@
  * @link http://github.com/jamierumbelow/codeigniter-base-model
  * @copyright Copyright (c) 2012, Jamie Rumbelow <http://jamierumbelow.net>
  */
-class BaseModel extends CI_Model
+class MY_Model extends CI_Model
 {
     /* --------------------------------------------------------------
      * VARIABLES
